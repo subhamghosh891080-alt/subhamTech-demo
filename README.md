@@ -1,4 +1,4 @@
 # subhamTech-demo
 This is my first repository
 <br>
-Author- Subham Ghosh
+Author- Subham Ghosh(Software Developer)
